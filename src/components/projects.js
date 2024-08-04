@@ -22,7 +22,7 @@ export default function Projects(){
 
                     <div className="text-center	">
                     <a href="https://door-dish-frontend.onrender.com"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click frontend </button></a>
-                     <a href="https://door-dish-admin.onrender.com"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click fadmin panel </button></a>
+                     <a href="https://door-dish-admin.onrender.com"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click admin panel </button></a>
                     </div>
                 </div>
             </div>
