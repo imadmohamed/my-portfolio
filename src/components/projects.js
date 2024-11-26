@@ -21,8 +21,8 @@ export default function Projects(){
                     <p className="text-center px-5 py-12">Full Stack Food Delivery Website In React JS, MongoDB, Express, Node JS & Stripe <br/><br/></p>
 
                     <div className="text-center	">
-                    <a href="https://door-dish-frontend.onrender.com"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click frontend </button></a>
-                     <a href="https://door-dish-admin.onrender.com"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click admin panel </button></a>
+                    <a href="https://doordish.onrender.com/"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click frontend </button></a>
+                     <a href="https://doordish-admin.onrender.com/"><button className="bg-sky-500 hover:bg-sky-700 rounded-full px-2"> Click admin panel </button></a>
                     </div>
                 </div>
             </div>
